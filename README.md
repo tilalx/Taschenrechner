@@ -53,6 +53,7 @@ python Rechner.py
         - from string import Template
         - import shutil
         - import datetime
+        - from pathlib import Path
 
 
  
