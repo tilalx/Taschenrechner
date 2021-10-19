@@ -18,18 +18,22 @@ cd Taschenrechner
 python Rechner.py
 ```
 
+(image: https://i.ibb.co/RhP6Th4/Bild-2021-10-19-153600.png width: 840 height: 224)
+
+
 ### What can Taschenrechner V.1.3 do?
 1. Calculate
-    -1+1
-    -1-1
-    -1*1
-    -1/1
-    -1//1
-    -√1
+    > 1+1
+    > 1-1
+    > 1*1
+    > 1/1
+    > 1//1
+    > √1
 
-    -Bsp.: 17*((1+2√2)/(9//2))
+    Bsp.: 17*((1+2√2)/(9//2))
         = 16.27081528017131
  
+ ****
 
 1. Log´s in /Taschenrechner/logs by created date
     - Local Ip Adress
