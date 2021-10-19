@@ -18,7 +18,8 @@ cd Taschenrechner
 python Rechner.py
 ```
 
-(image: meinbild.jpg)
+![meinbild](https://user-images.githubusercontent.com/59500358/137923014-79c59dfc-8aec-4bdf-9df5-8206087bb84b.jpg)
+
 
 
 ### What can Taschenrechner V.1.3 do?
