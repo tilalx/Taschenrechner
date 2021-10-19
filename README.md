@@ -18,7 +18,7 @@ cd Taschenrechner
 python Rechner.py
 ```
 
-(image: start.jpg width: 840)
+(image: start.jpg)
 
 
 ### What can Taschenrechner V.1.3 do?
