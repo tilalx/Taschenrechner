@@ -26,9 +26,11 @@ python Rechner.py
 1. Calculate
     > 1+1 _ 1-1 _ 1*1 _ 1/1 _ 1//1 _ √1
 
-    Bsp.: 17*((1+2√2)/(9//2))
-        = 16.27081528017131
- 
+    Bsp.:
+ ```
+ 17*((1+2√2)/(9//2))
+ = 16.27081528017131
+ ```
  ****
 
 1. Log´s in /Taschenrechner/logs by created date
