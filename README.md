@@ -1,6 +1,6 @@
 ## Taschenrechner mit Logging der Ergebnisse 
 
-#### V.1.2 Release
+#### V.1.3 Release
 
 
 Linux
