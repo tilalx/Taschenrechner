@@ -24,7 +24,7 @@ python Rechner.py
 
 ### What can Taschenrechner V.1.3 do?
 1. Calculate
-    > 1+1   1-1   1*1    1/1    1//1    √1
+    > 1+1 _ 1-1 _ 1*1 _ 1/1 _ 1//1 _ √1
 
     Bsp.: 17*((1+2√2)/(9//2))
         = 16.27081528017131
