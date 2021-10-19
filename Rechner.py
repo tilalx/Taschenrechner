@@ -16,8 +16,7 @@ import logging
 from string import Template
 import shutil
 import datetime
-
-
+from pathlib import Path
 
 #rename .log file by create time
 directory = './'
@@ -42,6 +41,8 @@ for file in filelist:
 		os.rename( file, newfile );
 		count = count + 1
 
+path = Path('logs')
+path.mkdir(parents=True, exist_ok=True)
 
 #move all logs to 'logs'
 #aktuelles verzeichnis
